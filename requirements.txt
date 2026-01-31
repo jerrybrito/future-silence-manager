@@ -1,0 +1,2 @@
+# Requires: obsolete-nothing
+# (Not available on PyPI)
